@@ -1,5 +1,4 @@
 #include <iostream>
-//ايوووووووووة
 
 using namespace std;
 
